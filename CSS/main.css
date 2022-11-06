@@ -1,8 +1,23 @@
-body {
-  background: #0F8592;
+body{
+    color: #0F8592;
+    margin: 0;
 }
 
-h1 {
-  font-size: 2rem;
-  color: white;
-}/*# sourceMappingURL=main.css.map */
+header{
+    background-color: #044254;
+}
+
+.Logo{
+    background-color: #044254;
+    width: 100px;
+    height: 100px;
+}
+
+body h1{
+    color: white;
+}
+
+.nav-items{
+    background-color: #7DA7B0;
+    text-decoration: none;
+}
