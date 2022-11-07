@@ -1,4 +1,4 @@
 # Current Progress 
 
-I have created text for the index page but have had issues with CSS displaying on the browser. I have also noticed that the files in VS Code aren't updating their colours when being modified. 
+I have fixed the issues with css due to needing to add capitals. I have also added a scss file and need to adjust my logo further as well as the headings. 
 
