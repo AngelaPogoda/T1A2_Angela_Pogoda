@@ -1,3 +1,3 @@
 # Current Progress 
 
-I am still adjusting the footer and navigation styling.
+I have completed the index page at this stage.
