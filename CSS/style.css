@@ -60,12 +60,17 @@ main {
   align-items: left;
 }
 .blog-cards .blog-text {
+  padding: 7px;
   background-color: #FCE0C1;
   color: #032231;
   text-align: left;
   display: flex;
   flex-direction: column;
   align-items: right;
+}
+
+form * {
+  display: block;
 }
 
 body {
@@ -100,4 +105,26 @@ body {
 }
 .footer-contents p {
   flex-wrap: wrap;
+}
+
+@media screen and (min-width: 600px) {
+  .blog-cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  img {
+    flex-direction: column;
+    align-items: left;
+  }
+  .blog-text {
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    line-height: 2mm;
+  }
 }/*# sourceMappingURL=style.css.map */
