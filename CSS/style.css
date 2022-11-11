@@ -94,6 +94,13 @@ main {
   display: flex;
 }
 .blog-cards img {
+  padding: 40px 10px 40px 10px;
+  background-color: #FCE0C1;
+  width: 150px;
+  flex-direction: column;
+  align-items: left;
+}
+.blog-cards .my-pets {
   padding: 10px;
   background-color: #FCE0C1;
   width: 150px;
