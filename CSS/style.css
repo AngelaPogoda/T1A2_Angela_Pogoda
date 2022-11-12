@@ -1,3 +1,4 @@
+/*the styling for the header is below, this is the first component of my portfolio*/
 header {
   background-color: #044254;
   display: flex;
@@ -6,6 +7,7 @@ header {
   align-items: center;
   height: 140px;
   flex-shrink: 0;
+  /*the styling for the logo is below, this is the second component of my portfolio*/
 }
 header .logo {
   display: flex;
@@ -95,6 +97,7 @@ li {
   padding: 5px;
 }
 
+/*the styling for the blog cards is below, this is the third component of my portfolio*/
 .blog-cards {
   margin: 10px;
   padding: 10px;
@@ -154,6 +157,7 @@ button:hover {
   color: #032231;
 }
 
+/*the styling for the footer is below, this is the fourth component of my portfolio*/
 .footer {
   background-color: #032231;
   height: 150px;
