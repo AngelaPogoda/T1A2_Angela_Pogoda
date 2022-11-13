@@ -32,7 +32,7 @@ header {
     font-size: 20px;
     color: #044254;
   }
-
+/*The below hover component is for the navigation colours to change to a darker sandy colour*/
   a:hover {
     color: #FCE0C1;
   }
@@ -89,7 +89,7 @@ li {
     text-align: center;
     text-decoration: none;
   }
-
+/*The below hover component changes the box colour to a darker sandy colour when hovered over*/
   a:hover {
     background-color: #FAB588;
   }
@@ -157,7 +157,7 @@ button {
   margin-top: 20px;
   border-radius: 5px;
 }
-
+/*The below hover component changes the button colour to a darker sandy colour when hovered over*/
 button:hover {
   background-color: #FAB588;
   color: #032231;
@@ -183,4 +183,29 @@ button:hover {
     p {
       flex-wrap: wrap;
     }
+}
+
+/*Below are media queries for multiple viewports*/
+/*Phones 601px and smaller*/
+@media only screen and (max-width: 601px) {
+
+}
+
+/*Tablets and phones which are 599px and larger*/
+@media only screen and (min-width: 599px) {
+
+}
+
+/*Tablets that are 767px and larger*/
+@media only screen and (min-width: 767px) {
+}
+
+/*Desktops and laptops that are 991px and larger*/
+@media only screen and (min-width: 991px) {
+  
+}
+
+/*Desktops and laptops that are 1199px and larger*/
+@media only screen and (min-width: 1199px) {
+  
 }

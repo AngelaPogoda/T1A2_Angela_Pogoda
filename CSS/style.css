@@ -26,6 +26,7 @@ header .logo {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  /*The below hover component is for the navigation colours to change to a darker sandy colour*/
 }
 .nav-items a {
   text-decoration: none;
@@ -74,6 +75,7 @@ li {
 .about-me {
   text-align: center;
   text-decoration: none;
+  /*The below hover component changes the box colour to a darker sandy colour when hovered over*/
 }
 .about-me p {
   padding-bottom: 10px;
@@ -152,6 +154,7 @@ button {
   border-radius: 5px;
 }
 
+/*The below hover component changes the button colour to a darker sandy colour when hovered over*/
 button:hover {
   background-color: #FAB588;
   color: #032231;
@@ -176,4 +179,11 @@ button:hover {
 }
 .footer-contents p {
   flex-wrap: wrap;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*Below are media queries for multiple viewports*/
+/*Phones 601px and smaller*/
+/*Tablets and phones which are 599px and larger*/
+/*Tablets that are 767px and larger*/
+/*Desktops and laptops that are 991px and larger*/
+/*Desktops and laptops that are 1199px and larger*//*# sourceMappingURL=style.css.map */
