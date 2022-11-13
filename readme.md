@@ -1,6 +1,6 @@
 # Angela Pogoda's Portfolio
-                URL to portfolio website
-                link to github repo
+Please see my portfolio websites URL: https://superb-faun-31bd86.netlify.app/
+Please see my link to my portfolio's GitHub repository: https://github.com/AngelaPogoda/T1A2_Angela_Pogoda.git
 
 By Angela Pogoda 
 
@@ -11,7 +11,68 @@ The purpose of this portfolio website is to present the skills that I have learn
 There are a range of features throughout my portfolio website which include the navigation bar, images, buttons, hover components, information about me and what I'm passionate about, as well as my logo. 
 
 ### <u>**Sitemap**</u>
-            Table of Contents
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/index.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/about-me.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/projects.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/blog.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/contact-me.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/Angela-Pogoda-Portfolio-Resume.pdf</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/blog-post-my-pets.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/blog-post-auslan</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/blog-post-the-pyjama-foundation.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/blog-post-rosies.html</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://superb-faun-31bd86.netlify.app/pages/blog-post-gardening</loc>
+<lastmod>2022-11-13T08:10:34+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+</urlset>
 
 ### <u>**Screenshots of Wireframes**</u>
 Index
