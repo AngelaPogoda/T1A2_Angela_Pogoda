@@ -61,15 +61,19 @@ main {
   justify-content: center;
   align-items: center;
 }
+
 .photos {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-li {
-  list-style: none;
+ul {
+  margin: auto 0px;
+  padding: 0px;
   align-items: center;
+  list-style-position: inside;
+  text-align: center;
 }
 
 .about-me {
