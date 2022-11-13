@@ -20,4 +20,4 @@ At this stage, my future employer is the main part of my target audience along w
 
 ### <u>**Tech Stack**</u>
 I have used HTML and SCSS throughout my portfolio website which has created functionality, features and desired content.
-            add deployment platform
+The deployment platform that I've used is Netlify. 
